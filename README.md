@@ -1,4 +1,4 @@
-# Drift Timer
+# Pikachu pomodoro
 
 A small, light Windows desktop timer with an always-visible saved note and local Pikachu animations.
 
