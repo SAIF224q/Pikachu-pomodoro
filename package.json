@@ -1,0 +1,16 @@
+{
+  "name": "drift-timer",
+  "version": "1.0.0",
+  "description": "A tiny floating timer for Windows",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && electron .",
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "electron": "^33.2.1",
+    "typescript": "^5.7.2"
+  }
+}
